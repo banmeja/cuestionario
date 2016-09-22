@@ -1,0 +1,7 @@
+1 repositorio
+2 git init {enter}
+3 git add . {enter}
+4 git status {enter}
+5 git commit -m "Primera version"
+6 /en master/ git remote add origin *path del repositorio de github 0web'
+7 git push origin master
