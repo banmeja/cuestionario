@@ -1,0 +1,43 @@
+#principal{
+vertical-align: center;
+position: relative;
+background-image: url("bod.jpg");
+max-height: 300px;
+max-width: 25%;
+opacity: 10%;
+
+height: 50%;
+}
+#principal2{
+	
+}
+#principal3{
+	
+}
+#b{
+
+	opacity: 50%;
+	max-width: 100%;
+}
+#ssopas{
+	opacity:1%;
+	background-image: url("bod.png");
+	
+   max-height: 75%;
+   }
+   #tecno{
+	opacity:1%;
+	background-image: url("h.png");
+	
+   max-height: 75%;
+   }
+   #i{
+   	opacity: 50%;
+   }
+#s{
+	background-image: url("7.jpg");
+	opacity: 50%;
+	
+}
+
+

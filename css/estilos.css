@@ -1,0 +1,32 @@
+
+
+body{
+	background:   #dfeffa;
+
+}
+header{
+	width:100%;
+	opacity: 0.9;
+
+}
+header nav{
+	width: 100%;
+	text-align: left;
+	margin:20px auto;
+	background: #024959;
+	
+}
+
+#tamanio{
+  width: 80% !important;
+}
+#principal{
+	width: 80% !important;
+}
+#menu{
+	width: 83% !important;
+	text-align: left;
+	margin:10px auto;
+	background: #09	
+}
+	

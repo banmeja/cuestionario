@@ -1,0 +1,55 @@
+#s{
+	background-image: url("7.jpg");
+	opacity: 50%;
+	
+}
+
+/*Ejemplo 5*/
+.ejemplo-5 img {
+transform: scaleY(1);
+transition: all 0.7s ease-in-out
+
+
+}
+.ejemplo-5 .mascara {
+background-color: rgba(119, 80, 21, 0.9);
+transition: all 0.5s linear;
+opacity: 0;
+
+}
+.ejemplo-5 h2{
+border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+background: transparent;
+margin: 20px 40px 0px 40px;
+transform: scale(0);
+color: #fff;
+transition: all 0.5s linear;
+opacity: 0;
+}
+.ejemplo-5 p {
+color: #fff;
+opacity: 0;
+transform: scale(0);
+transition: all 0.5s linear;
+}
+.ejemplo-5 a.link {
+opacity: 0;
+transform: scale(0);
+transition: all 0.5s linear;
+background-color: rgba(119, 80, 21, 0.9);
+}
+
+.ejemplo-5:hover img {
+transform: scale(10);
+opacity: 0;
+}
+.ejemplo-5:hover .mascara {
+opacity: 1;
+}
+.ejemplo-5:hover h2,
+.ejemplo-5:hover p,
+.ejemplo-5:hover a.link{
+transform: scale(1);
+opacity: 1;
+}
+
